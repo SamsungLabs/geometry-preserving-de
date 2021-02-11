@@ -8,9 +8,7 @@ This repository provides official code (Python+Pytorch) to run models from the "
 > Samsung AI Center Moscow <br>
 > https://arxiv.org/abs/2009.12419
 
-<p align="center">
-  <img src="./imgs/teaser.jpg" alt="teaser"/>
-</p>
+![teaser](./imgs/teaser.jpg)
 
 Also you may consider watching [video](https://youtu.be/mzNmHpzIPWo) with the additional results (animated point cloud renders) and comparisons with existing single-view depth estimation models. 
 
