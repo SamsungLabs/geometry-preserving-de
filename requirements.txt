@@ -1,0 +1,8 @@
+h5py
+tqdm
+pandas
+opencv-python
+geffnet==0.9.8
+efficientnet-pytorch==0.6.3
+segmentation_models_pytorch==0.1.0
+scipy
