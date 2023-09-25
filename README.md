@@ -5,7 +5,7 @@ This repository provides official code (Python+Pytorch) to run models from the "
 
 > **Towards General Purpose Geometry-Preserving Single-View Depth Estimation**<br>
 > Mikhail Romanov, Nikolay Patatkin, Anna Vorontsova, Sergey Nikolenko, Anton Konushin, Dmitry Senyushkin <br>
-> Samsung AI Center Moscow <br>
+> Samsung Research <br>
 > https://arxiv.org/abs/2009.12419
 
 ![teaser](./imgs/teaser.jpg)
